@@ -1,59 +1,31 @@
-## Introduction
+You can use heading tags `<h1>`, `<h2>` and `<h3>` to create large text headings in coloured tiles. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+![Three coloured boxes with lorem ipsum text in different sizes.](images/headings.png)
 
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
+--- code ---
 ---
-title: What you will need
+language: html
+filename: index.html
+line_numbers: false
 ---
-### Hardware
+<main class="page">
+    <section class="wrap">
+        <div class="primary tile">
+          <h1>LOREM</h1>
+        </div>
 
-+ A computer or tablet capable of running Scratch 3
+        <div class="secondary tile">
+          <h2>LOREM<br>IPSUM</h2>
+        </div>
 
-### Software
+        <div class="tertiary tile">
+            <h3>Lorem<br>ipsum<br>dolor</h3>
+        </div>
+    </section>
+</main>
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- /code ---
 
-### Downloads
+Use the `tile` class to make sure your tiles are all the same height. 
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** You can adjust the `height` of the `tile` class in `style.css`. 
