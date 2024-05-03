@@ -1,6 +1,6 @@
-You can use heading tags `<h1>`, `<h2>` and `<h3>` to create large text headings in coloured tiles. 
+You can use heading tags (`<h1>`, `<h2>`, and `<h3>`) to create large text headings in coloured tiles. 
 
-![Three coloured boxes with lorem ipsum text in different sizes.](images/headings.png)
+![Three coloured boxes text in different sizes.](images/headings.png)
 
 --- code ---
 ---
