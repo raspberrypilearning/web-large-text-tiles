@@ -1,6 +1,6 @@
-You can use heading tags (`<h1>`, `<h2>`, and `<h3>`) to create large text headings in coloured tiles.
+Je kunt 'heading' tags (`<h1>`, `<h2>` en `<h3>`) gebruiken om grote tekstkoppen in gekleurde tegels te maken.
 
-![Three coloured boxes text in different sizes.](images/headings.png)
+![Drie gekleurde vakken met tekst in verschillende formaten.](images/headings.png)
 
 ## --- code ---
 
@@ -30,6 +30,6 @@ line_numbers: false
 
 \--- /code ---
 
-Use the `tile` class to make sure your tiles are all the same height.
+Gebruik de class `tile` om ervoor te zorgen dat jouw tegels allemaal dezelfde hoogte hebben.
 
-**Tip:** You can adjust the `height` of the `tile` class in `style.css`.
+**Tip:** Je kunt de `height` (hoogte) van de `tile` (tegel) class aanpassen in `style.css`.
