@@ -1,6 +1,6 @@
-You can use heading tags (`<h1>`, `<h2>`, and `<h3>`) to create large text headings in coloured tiles.
+Tu peux utiliser des balises de titre (`<h1>`, `<h2>` et `<h3>`) pour créer de grands titres de texte dans des tuiles colorées.
 
-![Three coloured boxes text in different sizes.](images/headings.png)
+![Trois cases de couleur de texte de différentes tailles.](images/headings.png)
 
 ## --- code ---
 
@@ -30,6 +30,6 @@ line_numbers: false
 
 \--- /code ---
 
-Use the `tile` class to make sure your tiles are all the same height.
+Utilise la classe `tile` pour t'assurer que tes tuiles ont toutes la même hauteur.
 
-**Tip:** You can adjust the `height` of the `tile` class in `style.css`.
+**Astuce :** tu peux ajuster la `hauteur` de la classe `tile` dans `style.css`.
