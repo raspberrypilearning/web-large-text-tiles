@@ -1,10 +1,10 @@
-title: Add large text tiles
+title: 添加大文本块
 hero_image: images/banner.png
-description: Add tiles of the same height and width that contain large text.
+description: 添加包含大文本的等高等宽的块。
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
   - 
-    title: Add large text tiles
+    title: 添加大文本块
