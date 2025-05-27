@@ -1,6 +1,6 @@
-You can use heading tags (`<h1>`, `<h2>`, and `<h3>`) to create large text headings in coloured tiles.
+你可以使用标题标签（`<0>`, `<1>`,，和 `<2>`）在彩色块上创建大文本标题。
 
-![Three coloured boxes text in different sizes.](images/headings.png)
+![三个不同大小的彩色框文本。](images/headings.png)
 
 ## --- code ---
 
@@ -30,6 +30,6 @@ line_numbers: false
 
 \--- /code ---
 
-Use the `tile` class to make sure your tiles are all the same height.
+使用 `tile` 类来确保你的块是相同的高度。
 
-**Tip:** You can adjust the `height` of the `tile` class in `style.css`.
+\*\*提示：\*\*你可以在 `style.css` 中调整 `tile` 类的 `height` 。
